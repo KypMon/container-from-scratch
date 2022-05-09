@@ -1,3 +1,5 @@
+From tutorial by Liz Rice on O'Reilly
+
 # Agenda
 + how containers behave
 + namespacing the hostname
